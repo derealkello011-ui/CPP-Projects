@@ -17,5 +17,12 @@ A C++ based command-line application that simulates mobile money (MoMo) transact
 
 ## 💻 How to Compile & Run
 1. Navigate to the project directory:
-   ```bash
-   cd ~/git-lab
+```bash
+cd MoMo_System/
+```
+2. Compile the .cpp file:
+```bash
+g++ MoMo_System.cpp -o MomoSystem
+```
+
+   
