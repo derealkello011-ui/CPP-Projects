@@ -3,7 +3,7 @@
 Welcome to my C++ laboratory. This repository serves as a centralized hub for my computer science and software development projects, ranging from financial simulations to system utility tools.
 
 ## 📁 Repository Overview
-As a Computer Science and Engineering student, I use this space to experiment with C++ architecture, logical problem solving, and automated workflows.
+As a Computer Science student, I use this space to experiment with C++ architecture, logical problem solving, and automated workflows.
 
 ### Projects Included:
 *   **MoMo_System**: A console-based Mobile Money simulation app featuring PIN authentication, transaction logging, and simulated financial services.
@@ -18,5 +18,6 @@ As a Computer Science and Engineering student, I use this space to experiment wi
 To explore these projects, clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/derealkello011-ui/CPP-Projects.git](https://github.com/derealkello011-ui/CPP-Projects.git)
+git clone https://github.com/derealkello011-ui/CPP-Projects.git
 cd CPP-Projects
+```
