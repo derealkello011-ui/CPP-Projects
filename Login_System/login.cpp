@@ -34,8 +34,8 @@ class temp {
 
             return password;
         }
-        void forgotPasswd();
 
+        void forgotPasswd();
 } obj;
 
 
